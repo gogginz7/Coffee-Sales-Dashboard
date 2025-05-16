@@ -26,7 +26,7 @@ Welcome to the **Coffee Sales Dashboard**, an Excel-based interactive project de
 
 ## 📁 File
 
-- `CoffeeSalesDashboard.xlsx`
+- `coffeeOrdersData.xlsx`
 
 ---
 
