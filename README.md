@@ -6,7 +6,7 @@ Welcome to the **Coffee Sales Dashboard**, an Excel-based interactive project de
 
 ## ✨ What’s Inside?
 
-- 📈 **Top 5 Customers** – Quick view of highest value customers.
+- 📈 **Top 7 Customers** – Quick view of highest value customers.
 - 🌍 **Sales by Country** – Compare international performance at a glance.
 - 📅 **Sales Over Time** – Spot trends and seasonality using time series visuals.
 - 💶 **Total Sales Overview** – Get a full picture of revenue.
